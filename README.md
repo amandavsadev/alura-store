@@ -6,7 +6,7 @@
 ---
 ## :framed_picture: Imagens do Projeto
 
-![imagem-projeto-final](MC.png)
+![imagem-projeto-final](prototipo.jpg)
 
 ---
 ## :woman_technologist:  Autora
